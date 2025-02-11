@@ -1,7 +1,7 @@
 # SaludIA 🏥
 [![React](https://img.shields.io/badge/React-18.0+-61DAFB.svg?logo=react&logoColor=white)](https://reactjs.org/) [![OpenAI](https://img.shields.io/badge/OpenAI-API-12A1F1.svg)](https://openai.com/) [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0+-38B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Vitest](https://img.shields.io/badge/Vitest-Testing-2F7D8C.svg)](https://vitest.dev/)
 
-An AI-powered health information analyzer that helps detect misinformation and assess credibility of health claims in English and Spanish. The name comes from salud in spanish which means health and inteligencia artificial (IA) or AI in spanish.
+An AI-powered health information analyzer that helps detect misinformation and assess credibility of health claims in English and Spanish. The name comes from salud in Spanish which means health and inteligencia artificial (IA) or AI in Spanish.
 
 Saludia aims to develop an AI-driven system to detect health misinformation by analyzing patterns and rhetorical techniques. The system will identify common misinformation tactics, such as emotional manipulation and logical fallacies. By focusing on these objectives, the aim is to enhance public access to reliable health information and mitigate the spread of misinformation.
 
