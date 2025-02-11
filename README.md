@@ -64,19 +64,19 @@ npm test
 
 Test results:
 <br>
-<img src="./assets/screenshots/tests.png" width="700" alt="testing results"/>
+<img src="./src/assets/screenshots/tests.png" width="700" alt="testing results"/>
 
 ## 📸 Screenshots
 <div align="center">
-    <img src="./assets/screenshots/dark-mode.png" width="350" alt="Dark Mode Interface"/>
+    <img src="./src/assets/screenshots/dark-mode.png" width="350" alt="Dark Mode Interface"/>
      <br>
     *Dark mode interface*
     <br><br>
-    <img src="./assets/screenshots/light-mode.png" width="350" alt="Light Mode Interface"/>
+    <img src="./src/assets/screenshots/light-mode.png" width="350" alt="Light Mode Interface"/>
      <br>
     *Light mode in Spanish interface*
     <br><br>
-    <img src="./assets/screenshots/analysis.png" width="350" alt="Analysis View"/>
+    <img src="./src/assets/screenshots/analysis.png" width="350" alt="Analysis View"/>
     <br>
     *Detailed credibility analysis with scoring*
 </div>
